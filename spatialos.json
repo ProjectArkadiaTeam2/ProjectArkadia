@@ -1,0 +1,8 @@
+{
+    "name": "Project Arkadia",
+    "project_version": "0.0.1",
+    "sdk_version": "12.0.5",
+    "dependencies": [
+    	{"name": "standard_library", "version": "12.0.5"}
+    ]
+}
